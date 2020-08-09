@@ -1,4 +1,4 @@
-# Sentiment analysis 
+# Sentiment Analysis 
 
 # Introduction
 Analyze & classify sentiment of text data, articles into positive or negative
